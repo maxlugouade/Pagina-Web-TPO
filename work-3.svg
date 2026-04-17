@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+  <rect width='800' height='600' fill='#131313'/>
+  <path d='M100 395 C170 315 283 260 432 260 C529 260 622 295 690 355 L690 395 L100 395 Z' fill='#222' stroke='#f4a825' stroke-width='7'/>
+  <circle cx='238' cy='410' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <circle cx='572' cy='395' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <rect x='325' y='160' width='150' height='60' rx='12' fill='#121212' stroke='#f4a825' stroke-width='4'/>
+  <text x='400' y='199' text-anchor='middle' fill='#f4a825' font-size='28' font-family='Arial, sans-serif' font-weight='700'>TROMPA</text>
+  <text x='400' y='100' text-anchor='middle' fill='#f2f2f2' font-size='40' font-family='Arial, sans-serif' font-weight='700'>PPF FRONTAL</text>
+</svg>

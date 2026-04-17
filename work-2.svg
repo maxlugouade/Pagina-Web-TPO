@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+  <rect width='800' height='600' fill='#131313'/>
+  <path d='M110 410 C198 302 315 254 465 255 C550 256 625 285 705 348 L700 396 L110 410 Z' fill='#212121' stroke='#f4a825' stroke-width='7'/>
+  <path d='M440 254 C507 232 581 227 657 244 C620 270 587 300 560 338 L478 340 C467 309 455 284 440 254 Z' fill='#f4a825'/>
+  <circle cx='252' cy='420' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <circle cx='585' cy='401' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <text x='400' y='92' text-anchor='middle' fill='#f4a825' font-size='44' font-family='Arial, sans-serif' font-weight='700'>WRAP COLOR</text>
+</svg>

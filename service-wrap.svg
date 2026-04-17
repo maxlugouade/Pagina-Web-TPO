@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'>
+  <defs>
+    <linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#f4a825'/>
+      <stop offset='100%' stop-color='#818181'/>
+    </linearGradient>
+  </defs>
+  <rect width='800' height='500' fill='#111'/>
+  <path d='M120 360 C220 230 350 175 520 185 C615 190 688 230 736 293 L726 340 L120 360 Z' fill='#2b2b2b' stroke='url(#g)' stroke-width='8'/>
+  <path d='M160 340 C245 242 355 208 500 215 C575 219 635 248 683 299 L680 320 L160 340 Z' fill='#161616'/>
+  <path d='M440 173 C520 150 620 147 700 172 C654 188 613 221 580 270 L490 266 C470 228 457 200 440 173 Z' fill='#f4a825'/>
+  <circle cx='255' cy='352' r='42' fill='#121212' stroke='#f4a825' stroke-width='5'/>
+  <circle cx='605' cy='334' r='42' fill='#121212' stroke='#f4a825' stroke-width='5'/>
+  <text x='400' y='76' text-anchor='middle' fill='#f2f2f2' font-size='34' font-family='Arial, sans-serif' font-weight='700'>WRAP / PLOTEO</text>
+</svg>

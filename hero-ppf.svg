@@ -1,0 +1,23 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#0b0b0b'/>
+      <stop offset='60%' stop-color='#1b1b1b'/>
+      <stop offset='100%' stop-color='#2f2f2f'/>
+    </linearGradient>
+    <linearGradient id='gold' x1='0' y1='0' x2='1' y2='0'>
+      <stop offset='0%' stop-color='#f4a825'/>
+      <stop offset='100%' stop-color='#ffd26b'/>
+    </linearGradient>
+  </defs>
+  <rect width='1600' height='900' fill='url(#bg)'/>
+  <circle cx='1240' cy='210' r='240' fill='#f4a825' opacity='.1'/>
+  <circle cx='1390' cy='690' r='320' fill='#f4a825' opacity='.08'/>
+  <path d='M180 570 C360 430 650 380 930 405 C1080 420 1180 465 1300 535 L1390 545 L1470 610 L1410 610 C1392 670 1340 720 1265 720 C1190 720 1138 670 1120 610 L620 610 C602 670 550 720 475 720 C400 720 348 670 330 610 L170 610 C188 590 205 580 230 570 Z' fill='#0f0f0f' stroke='url(#gold)' stroke-width='8'/>
+  <circle cx='475' cy='610' r='78' fill='#111' stroke='#f4a825' stroke-width='8'/>
+  <circle cx='1265' cy='610' r='78' fill='#111' stroke='#f4a825' stroke-width='8'/>
+  <path d='M460 408 L740 360 L1080 380 L1205 505 L340 505 Z' fill='#1b1b1b' stroke='#343434' stroke-width='4'/>
+  <path d='M542 390 L760 360 L1030 378 L1115 480 L496 480 Z' fill='#202020'/>
+  <rect x='190' y='120' width='230' height='52' rx='8' fill='#121212' stroke='#f4a825' stroke-width='2'/>
+  <text x='305' y='154' text-anchor='middle' fill='#f4a825' font-size='30' font-family='Arial, sans-serif' font-weight='700'>PPF • WRAP</text>
+</svg>

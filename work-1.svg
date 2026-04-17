@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+  <rect width='800' height='600' fill='#131313'/>
+  <path d='M90 396 C170 300 290 252 440 255 C535 257 627 290 700 350 L694 394 L90 396 Z' fill='#212121' stroke='#f4a825' stroke-width='7'/>
+  <circle cx='240' cy='410' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <circle cx='590' cy='395' r='44' fill='#111' stroke='#f4a825' stroke-width='5'/>
+  <text x='400' y='92' text-anchor='middle' fill='#f4a825' font-size='44' font-family='Arial, sans-serif' font-weight='700'>PPF COMPLETO</text>
+</svg>

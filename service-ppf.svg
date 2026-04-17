@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 500'>
+  <rect width='800' height='500' fill='#111'/>
+  <path d='M400 80 L610 150 V270 C610 340 555 402 400 448 C245 402 190 340 190 270 V150 Z' fill='#1f1f1f' stroke='#f4a825' stroke-width='7'/>
+  <path d='M400 130 L555 183 V261 C555 313 519 356 400 395 C281 356 245 313 245 261 V183 Z' fill='#121212'/>
+  <path d='M340 247 L389 296 L480 198' fill='none' stroke='#f4a825' stroke-width='24' stroke-linecap='round' stroke-linejoin='round'/>
+  <text x='400' y='82' text-anchor='middle' fill='#f2f2f2' font-size='34' font-family='Arial, sans-serif' font-weight='700'>PAINT PROTECTION FILM</text>
+</svg>
